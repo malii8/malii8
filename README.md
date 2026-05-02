@@ -1,4 +1,4 @@
-# Mehmet Ali Üner
+![header](./header.svg)
 
 > Computer Engineer building **AI-powered mobile apps** and **real-time computer vision** systems.
 > Flutter on the front, Python + OpenCV under the hood.
