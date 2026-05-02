@@ -51,4 +51,4 @@ Hand gesture recognition via MediaPipe driving PowerPoint through a C# VSTO add-
 
 ## Find Me
 
-📧 mehmetaliuner3@gmail.com &nbsp;|&nbsp; 💼 [linkedin.com/in/mehmet-ali-üner](https://linkedin.com/in/mehmet-ali-üner) &nbsp;|&nbsp; 📍 Batman, Türkiye
+📧 mehmetaliuner3@gmail.com &nbsp;|&nbsp; 💼 [linkedin.com/in/mehmet-ali-üner](https://linkedin.com/in/mehmet-ali-üner) &nbsp;|&nbsp; 
