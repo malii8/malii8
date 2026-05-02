@@ -1,16 +1,12 @@
-## Hi there 👋
+### 👋 Merhaba, Ben Mehmet Ali Üner (Hello, I'm Mehmet Ali Uner)
+[cite_start]Ben bir Bilgisayar Mühendisiyim[cite: 2]. [cite_start]Temiz koda, performansa ve kullanıcı deneyimine önem veren, hızlı öğrenen ve çözüm odaklı bir geliştiriciyim[cite: 12].
 
-<!--
-**malii8/malii8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Neler Yapıyorum? (What I Do)**
+* [cite_start]Android ve iOS için Flutter kullanarak çapraz platform mobil uygulamalar geliştiriyorum[cite: 9].
+* [cite_start]Mobil geliştirmeyi Python, OpenCV ve MediaPipe kullanarak gerçek zamanlı bilgisayarlı görü ve hareket tanıma çözümleriyle birleştiriyorum[cite: 10].
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Teknoloji Yığınım (Tech Stack):**
+* [cite_start]**Diller:** C++, C#, Dart, Python [cite: 47]
+* [cite_start]**Mobil:** Flutter (Android/iOS), Provider, Riverpod, BLOC [cite: 51]
+* [cite_start]**Görü & YZ:** OpenCV, MediaPipe, YOLOv8, Roboflow [cite: 53]
+* [cite_start]**Backend & DB:** Firebase, SQLite, MySQL, REST API [cite: 55, 59, 61]
